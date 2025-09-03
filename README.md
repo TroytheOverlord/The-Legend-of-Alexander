@@ -36,10 +36,13 @@ Magic & Spell System
 ## Screenshots
 <img width="1440" height="808" alt="Screenshot 2025-08-18 at 8 16 28 PM" src="https://github.com/user-attachments/assets/8af93e19-10ff-47e1-94cb-3a9ee9f1b0c1" />
 
-
 <img width="781" height="504" alt="Screenshot 2025-04-07 at 1 09 55 PM" src="https://github.com/user-attachments/assets/cd4b7e60-1cb9-44c6-8afe-a7abc6bec0d8" />
 
 <img width="784" height="521" alt="Screenshot 2025-04-07 at 1 10 46 PM" src="https://github.com/user-attachments/assets/df120d3b-c7bc-4045-93cc-c73f9bb88c4e" />
+
+## Gameplay Videos
+Exploration: https://youtu.be/DmfQwv2q0NU
+Combat: https://youtu.be/lTD4FEUnkiE
 
 ## 🛠️ Tech & Systems
 
